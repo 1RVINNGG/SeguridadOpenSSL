@@ -207,27 +207,27 @@ Libsodium está integrada de forma nativa en PHP desde la versión 7.2 y fue dis
 ### Firma7 – Firma digital con claves RSA
 Se ingresó el texto a firmar; el sistema generó el par de claves, firmó con SHA-256 y verificó correctamente.
 
-![Firma7](caps/firma7.png)
+![Firma7](caps/Firma7.png)
 
 ### FirmaOtra – Creación de certificado y llave privada
 Formulario con país, localidad, organización, nombre común y correo; se generó el certificado X.509 en formato PEM.
 
-![FirmaOtra](caps/firmaOtra.png)
+![FirmaOtra](caps/FirmaOtra.png)
 
 ### FirmaMensaje – Firmar y verificar un mensaje
 Se firmó el mensaje con la llave privada, se mostró la firma en Base64 y se verificó con el certificado.
 
-![FirmaMensaje](caps/firmaMensaje.png)
+![FirmaMensaje](caps/FirmaMensaje.png)
 
 ### Encriptacion – AES-128-CBC
 Se cifró el texto con una clave de 16 caracteres y se descifró obteniendo el texto original.
 
-![Encriptacion](caps/encriptacion.png)
+![Encriptacion](caps/Encriptacion.png)
 
 ### Sodium – Cifrado autenticado y firma Ed25519
 Se cifró y descifró el texto, se rechazó el paquete con un bit alterado (MAC no coincide) y se verificó la firma Ed25519 (válida con el texto original, inválida con el texto modificado).
 
-![Sodium](caps/sodium.png)
+![Sodium](caps/Sodium.png)
 
 ---
 
