@@ -212,12 +212,12 @@ Se ingresó el texto a firmar; el sistema generó el par de claves, firmó con S
 ### FirmaOtra – Creación de certificado y llave privada
 Formulario con país, localidad, organización, nombre común y correo; se generó el certificado X.509 en formato PEM.
 
-![FirmaOtra](caps/firmaotra.png)
+![FirmaOtra](caps/firmaOtra.png)
 
 ### FirmaMensaje – Firmar y verificar un mensaje
 Se firmó el mensaje con la llave privada, se mostró la firma en Base64 y se verificó con el certificado.
 
-![FirmaMensaje](caps/firmamensaje.png)
+![FirmaMensaje](caps/firmaMensaje.png)
 
 ### Encriptacion – AES-128-CBC
 Se cifró el texto con una clave de 16 caracteres y se descifró obteniendo el texto original.
