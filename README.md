@@ -302,6 +302,6 @@ El IV se genera aleatoriamente en cada ejecución y no se guarda, por lo que el 
 
 Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:
 
-- **Nombre:** Irving Cruz
+- **Nombre:** Irving J. Cruz
 - **Curso:** Desarrollo Web
 - **Instructor del Laboratorio:** Irina Fong
